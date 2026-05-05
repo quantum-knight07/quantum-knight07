@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ## ⚡ Tech
 
-*C++ | Python **
-*Data Structures & Algorithms **
-*Basic Networking & Security Concepts , Cryptography **
+* C++ | Python **
+* Data Structures & Algorithms **
+* Basic Networking & Security Concepts , Cryptography **
 
 ---
 
@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 ---
 
 ⚡ Quantum Logs
-*I don’t always write bugs, but when I do, they’re hard to find **
-*I debug like a detective, except the culprit is usually me **
-*State: simultaneously confident and confused **
+* I don’t always write bugs, but when I do, they’re hard to find **
+* I debug like a detective, except the culprit is usually me **
+* State: simultaneously confident and confused **
 
 ---
 
 ## 📫 How to reach me
 
-* LinkedIn: https://linkedin.com/in/jay-mangal-pandey-72b3bb300/
-* Email: pandeyjaymangal0@gmail.com
+* LinkedIn: https://linkedin.com/in/jay-mangal-pandey-72b3bb300/ **
+* Email: pandeyjaymangal0@gmail.com **
 
